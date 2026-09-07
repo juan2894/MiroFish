@@ -20,9 +20,24 @@
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mirofish_ai)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mirofish_ai/)
 
-[English](./README.md) | [中文文档](./README-ZH.md)
+[English](./README.md) | [中文文档](./README-ZH.md) | [🎓 Curso de MiroFish en Español](./curso/README.md)
 
 </div>
+
+## 🎓 Curso de MiroFish (Tutorial Paso a Paso)
+
+¡Aprende a usar MiroFish con nuestro **Curso Completo Estilo Tutorial** en español!
+
+- 📖 **Acceder al curso:** [curso/README.md](./curso/README.md)
+- **Módulos incluidos:**
+  - [Módulo 0: Introducción y Arquitectura](./curso/00_introduccion_y_arquitectura.md)
+  - [Módulo 1: Instalación y Configuración del Entorno](./curso/01_instalacion_y_configuracion.md)
+  - [Módulo 2: Backend y Flujo de Simulación](./curso/02_backend_y_simulacion.md)
+  - [Módulo 3: Frontend e Interfaz de Usuario](./curso/03_frontend_e_interfaz.md)
+  - [Módulo 4: Caso Práctico Paso a Paso](./curso/04_caso_practico_paso_a_paso.md)
+  - [Módulo 5: Configuración Avanzada y Solución de Problemas](./curso/05_configuracion_avanzada_y_solucion_de_problemas.md)
+
+---
 
 ## ⚡ Overview
 
